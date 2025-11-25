@@ -1,0 +1,13 @@
+{
+  "name": "pakistan-sim-api",
+  "version": "1.0.0",
+  "description": "Pakistan SIM Database API - Real Implementation",
+  "main": "api/index.js",
+  "scripts": {
+    "dev": "node api/index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
